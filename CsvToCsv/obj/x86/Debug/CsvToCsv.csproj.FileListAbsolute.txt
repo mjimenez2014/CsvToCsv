@@ -1,0 +1,8 @@
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\bin\Debug\CsvToCsv.exe
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\bin\Debug\CsvToCsv.pdb
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.Form1.resources
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.exe
+c:\users\mauricio\documents\visual studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\Projects\CsvToCsv\CsvToCsv\obj\x86\Debug\CsvToCsv.csprojResolveAssemblyReference.cache
